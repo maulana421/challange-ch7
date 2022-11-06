@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651930311968",
+    "project_id": "challange-movie",
+    "storage_bucket": "challange-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651930311968:android:abb10f66b65f7255274b45",
+        "android_client_info": {
+          "package_name": "com.solanacode.challange.userfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651930311968-of984d6krfj0c9mo87tfjd0qunotce5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solanacode.challange.userfree",
+            "certificate_hash": "422e419ae3deebe8a6a77556e0d450360b97983b"
+          }
+        },
+        {
+          "client_id": "651930311968-g5sv556m54hs6h8oha2d8dkg6ta32mqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8LyhiI2Nyzqt8dHi_vdPfSyuQNswGr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651930311968-g5sv556m54hs6h8oha2d8dkg6ta32mqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
